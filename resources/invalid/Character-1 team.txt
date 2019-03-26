@@ -1,0 +1,5 @@
+Type,Name,HP,Abilities
+P,Finn,86,Ice Blast,Fire Bolt,Focus
+P,Rey,72,Arcane Shot,Ice Blast,Power Attack
+P,Poe,51,Sharp Shot,Med Pack
+P,Jess,63,Sharp Shot, Support, Death
